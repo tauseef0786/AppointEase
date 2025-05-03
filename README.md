@@ -13,7 +13,7 @@ appointment booking, and notifications — ideal for clinics or healthcare provi
     npm install
 ### Run the development server
     npm run dev
-## 📸 Screenshots
+### Screenshots
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/9484aed7-e7b9-44fb-80c0-c0e697b616bf" alt="Dashboard View" width="45%" />
