@@ -1,5 +1,5 @@
 #  EasyAppointment
-EasyAppointment** is a responsive doctor appointment scheduling app built with React and Tailwind CSS. It offers calendar views, 
+EasyAppointment is a responsive doctor appointment scheduling app built with React and Tailwind CSS. It offers calendar views, 
 appointment booking, and notifications — ideal for clinics or healthcare providers.
 
 ---
