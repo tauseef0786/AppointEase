@@ -51,5 +51,5 @@ appointment booking, and notifications — ideal for clinics or healthcare provi
     ├── postcss.config.js
     ├── tailwind.config.js
     ├── vercel.json
-├── vite.config.js
-└── README.md
+    ├── vite.config.js
+    └── README.md
