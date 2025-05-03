@@ -13,29 +13,30 @@ export const CATEGORIES = {
 const initialDoctors = [
   { 
     id: '1', 
-    name: 'Dr. Sarah Johnson', 
+    name: 'Dr. Jonson ', 
     specialty: 'Cardiologist',
     image: 'https://images.pexels.com/photos/5452293/pexels-photo-5452293.jpeg?auto=compress&cs=tinysrgb&w=300'
   },
   { 
     id: '2', 
-    name: 'Dr. Michael Chen', 
+    name: 'Dr.B.K Sing', 
     specialty: 'Pediatrician',
     image: 'https://images.pexels.com/photos/5327585/pexels-photo-5327585.jpeg?auto=compress&cs=tinysrgb&w=300'
   },
   { 
     id: '3', 
-    name: 'Dr. Emily Roberts', 
+    name: 'Dr. Ramesh', 
     specialty: 'Dermatologist',
     image: 'https://images.pexels.com/photos/5407206/pexels-photo-5407206.jpeg?auto=compress&cs=tinysrgb&w=300'
   },
   { 
     id: '4', 
-    name: 'Dr. David Wilson', 
+    name: 'Dr. Kamil', 
     specialty: 'Orthopedic Surgeon',
     image: 'https://images.pexels.com/photos/4173239/pexels-photo-4173239.jpeg?auto=compress&cs=tinysrgb&w=300'
   }
 ];
+
 
 // Generate current date
 const currentDate = new Date();
